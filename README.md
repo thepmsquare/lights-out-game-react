@@ -1,4 +1,4 @@
-# lights-out-game-react (WIP)
+# lights-out-game-react
 
 Lights Out Game made with ReactJS.
 
